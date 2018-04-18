@@ -1,0 +1,1 @@
+Add-VpnConnection -Name "Betson VPN" -ServerAddress "72.44.134.32" -UseWinlogonCredential -TunnelType L2tp -L2tpPsk "FnM47_GM3Ow&a86u%C9L" -PassThru -AllUserConnection -Force

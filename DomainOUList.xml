@@ -1,0 +1,13 @@
+</DomainOUs>
+
+<DomainOU>
+    OU=Laptops,OU=Devices,DC=hq,DC=nj,DC=betson,DC=com
+</DomainOU>
+<DomainOU>
+    OU=Desktops,OU=Devices,DC=hq,DC=nj,DC=betson,DC=com
+</DomainOU>
+<DomainOU>
+    OU=Other,OU=Devices,DC=hq,DC=nj,DC=betson,DC=com
+</DomainOU>
+
+</DomainOUs>

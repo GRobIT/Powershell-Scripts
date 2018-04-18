@@ -1,0 +1,1 @@
+(New-Object -ComObject Microsoft.Update.AutoUpdate).DetectNow()
